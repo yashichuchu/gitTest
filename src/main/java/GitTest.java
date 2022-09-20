@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("正常合并合并");
         System.out.println("master异常合并合并");
         System.out.println("dev01异常合并");
+        System.out.println("github修改！");
     }
 }
