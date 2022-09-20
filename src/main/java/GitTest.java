@@ -3,5 +3,6 @@ public class GitTest {
         System.out.println("hello world！");
         System.out.println("hello world！");
         System.out.println("hello world！");
+        System.out.println("正常合并合并");
     }
 }
